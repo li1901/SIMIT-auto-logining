@@ -37,8 +37,7 @@ pip install selenium python-dotenv  # 推荐用dotenv管理敏感信息
 ## 安装步骤
 
 1. 克隆/下载本项目代码  
-        git clone <项目仓库地址>  # 如有仓库可补充，无则忽略
-cd SIMIT-auto-logining
+        git clone <项目仓库地址> 
 
 2. 安装Python依赖  
        包含selenium等依赖
