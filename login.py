@@ -18,8 +18,8 @@ from selenium.common.exceptions import TimeoutException, NoSuchElementException
 # 请修改以下配置为你的实际信息
 
 LOGIN_URL = "http://172.16.1.28/"  # 登录页面URL
-USERNAME = "6212"                # 用户名
-PASSWORD = "276038"                # 密码
+USERNAME = "****"                # 用户名
+PASSWORD = "******"                # 密码
 
 # 页面元素选择器（根据实际页面结构配置）
 USERNAME_SELECTOR = "#username"  # 用户名输入框 (id="username")
@@ -230,3 +230,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
